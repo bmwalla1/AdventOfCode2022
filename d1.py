@@ -1,7 +1,7 @@
 import numpy as np
 
 def run():
-    inputfile = open('input.txt', 'r')
+    inputfile = open('d1input.txt', 'r')
     Lines = inputfile.readlines()
 
     array = np.array([])
